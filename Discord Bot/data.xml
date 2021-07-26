@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <link href="http://arxiv.org/api/query?search_query%3Dall%3Apowder%26id_list%3D%26start%3D0%26max_results%3D2" rel="self" type="application/atom+xml"/>
+  <title type="html">ArXiv Query: search_query=all:powder&amp;id_list=&amp;start=0&amp;max_results=2</title>
+  <id>http://arxiv.org/api/05As6xCW3T2UwddBaNhC+t2r6m4</id>
+  <updated>2021-07-26T00:00:00-04:00</updated>
+  <opensearch:totalResults xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">2716</opensearch:totalResults>
+  <opensearch:startIndex xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">0</opensearch:startIndex>
+  <opensearch:itemsPerPage xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">2</opensearch:itemsPerPage>
+  <entry>
+    <id>http://arxiv.org/abs/2107.09845v1</id>
+    <updated>2021-07-21T02:31:49Z</updated>
+    <published>2021-07-21T02:31:49Z</published>
+    <title>Powder reuse cycles in electron beam powder bed fusion : Variation of
+  powder characteristics</title>
+    <summary>  A path to lowering the economic barrier associated with the high cost of
+metal additively manufactured components is to reduce the waste via powder
+reuse (powder cycled back into the process) and recycling (powder chemically,
+physically, or thermally processed to recover the original properties)
+strategies. In electron beam powder bed fusion, there is a possibility of
+reusing 95 - 98% of the powder that is not melted. However, there is a lack of
+systematic studies focusing on quantifying the variation of powder properties
+induced by number of reuse cycles. This work compares the influence of multiple
+reuse cycles, as well as powder blends created from reused powder, on various
+powder characteristics such as the morphology, size distribution, flow
+properties, packing properties and chemical composition (oxygen and nitrogen
+content). It was found that there is an increase in measured response in powder
+size distribution, tapped density, Hausner ratio, Carr index, basic flow energy
+and specific energy, dynamic angle of repose, oxygen, and nitrogen content,
+while the bulk density remained largely unchanged.
+</summary>
+    <author>
+      <name>Gitanjali Shanbhag</name>
+    </author>
+    <author>
+      <name>Mihaela Vlasea</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">24 pages, 8 figures, 1 graphical abstract</arxiv:comment>
+    <link href="http://arxiv.org/abs/2107.09845v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/2107.09845v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>     
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2106.08576v1</id>
+    <updated>2021-06-16T06:54:18Z</updated>
+    <published>2021-06-16T06:54:18Z</published>
+    <title>Development of competitive high-entropy alloys using commodity powders</title>
+    <summary>  One of the main drawbacks of the powder metallurgy route for High-Entropy
+Alloys (HEAs) is the unavailability of fully pre-alloyed powders in the market.
+Using commodity powders (commercial Ni, Fe and Co base fully pre-alloyed
+powders, fully available in large quantities and at competitive prices) to
+produce HEAs presents a completely new and competitive scenario for obtaining
+viable alloys for high-performance applications.
+</summary>
+    <author>
+      <name>José M. Torralba</name>
+    </author>
+    <author>
+      <name>S. Venkatesh Kumarán</name>
+    </author>
+    <link href="http://arxiv.org/abs/2106.08576v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/2106.08576v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>     
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+</feed>
